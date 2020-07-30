@@ -2,7 +2,7 @@
 
 
 # Project Title
-Usable Readme Generator
+Homework 19 Employee Directory
 
 ## Table of Contents:
 - [Repository](#Repository)
@@ -14,19 +14,19 @@ Usable Readme Generator
 - [License](#License)
 
 ## Description
-This node.js project is used to write a readme.md for each homework project
+This project uses React to build the initial structure of the files.  Included with react are all of the components necessary to render on the screen.  The software immediately calls an API that retrieves dummy user data, and that data is displayed in a table.  The user can then either search for a specific user, or sort the data by clicking on the headings of the table.
 
 ## Installation
-n/a
+npm start
 
 ## Usage
-Simply run 'node index.js' from a terminal.  Copy the readme.md where it needs to go
+run npm start
 
 ## Contributors
 jdeleonardis
 
 ## Tests
-none
+N/A
 
 ## License
 MIT
